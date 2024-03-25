@@ -124,7 +124,6 @@
     <Content Include="Course.aspx" />
     <Content Include="CourseInstructor.aspx" />
     <Content Include="Default.aspx" />
-    <Content Include="favicon.ico" />
     <Content Include="Global.asax" />
     <Content Include="Instructor.aspx" />
     <Content Include="Lesson.aspx" />
